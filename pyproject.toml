@@ -1,0 +1,14 @@
+[project]
+name = "research-agent"
+version = "0.1.0"
+description = "Multi-step research agent with Gemini function calling"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "fastapi>=0.135.1",
+    "google-generativeai>=0.8.6",
+    "httpx>=0.28.1",
+    "python-dotenv>=1.2.2",
+    "uvicorn>=0.42.0",
+]
