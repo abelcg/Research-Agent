@@ -4,6 +4,8 @@ A multi-step research agent powered by **Google Gemini 2.0 Flash** that autonomo
 
 Built as part of **Lab 02: Multi-Step Agent with Tool Use**.
 
+**Live deployment:** https://research-agent-b56j.onrender.com
+
 ## Architecture
 
 ```
